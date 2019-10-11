@@ -1,7 +1,7 @@
 #!/bin/bash
 # Locator v1.0
-# Coded by: thelinuxchoice (You dont become a coder by just changing the credits)
-# Github: https://github.com/thelinuxchoice/locator
+# Coded by: McH313wh (You dont become a coder by just changing the credits)
+# Github: https://github.com/McH313wh/tools.git
 
 trap 'printf "\n";stop;exit 1' 2
 
